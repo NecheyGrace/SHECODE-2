@@ -1,0 +1,14 @@
+button{
+    text-align: center;
+    margin-top: 340px;
+    margin-left: 50%;
+    width: 125px;
+    height: 35px;
+    
+    box-shadow: 2px 4px 2px 1px;
+    border: none;
+
+}
+body{
+    background-color: purple;
+}
